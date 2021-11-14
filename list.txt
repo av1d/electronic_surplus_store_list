@@ -7,7 +7,7 @@ quite a few in existence.
 
 Leave comments in 'issues' or make pull requests to add sites.
 
-Last update: November 7, 2021 @ 2:03 AM
+Last update: November 13, 2021
 
 
 electronics surplus (components, devices, radios, etc.)
