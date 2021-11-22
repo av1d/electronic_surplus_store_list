@@ -1,9 +1,9 @@
 This is a list of electronic surplus stores which sell items online.<br>
 To fit the criteria, the store must sell some form of surplus electronics such<br>
-as components or devices. There are a few radio places tossed in here.<br>
+as components or devices. There are some radio and vacuum tube places tossed in here.<br>
 Ideally this list will end up categorized by components/devices/computer/radio and so on.<br>
-I would like to add lists of traditional soldering kit makers/sellers as there are still<br>
-quite a few in existence.<br><p>
+This is a work in progress and what you see right now is just the basic foundation.<br>
+The list mostly lacks organization whatsoever.<br>
 
 Leave comments in 'issues' or make pull requests to add sites.<br><p>
 
@@ -28,6 +28,7 @@ electronics surplus (components, devices, radios, etc.)<br>
 <li><a href="https://www.electronicsurplus.com/">https://www.electronicsurplus.com/</a></li>
 <li><a href="http://www.excesssolutions.com/">http://www.excesssolutions.com/</a></li>
 <li><a href="http://www.danssmallpartsandkits.net/">http://www.danssmallpartsandkits.net/</a></li>
+<li><a href="https://vetco.net/">https://vetco.net/</a></li>
 <li><a href="https://www.ecrater.com/c/34425/electronic-components/">https://www.ecrater.com/c/34425/electronic-components/</a></li>
 <li><a href="https://www.westfloridacomponents.com/">https://www.westfloridacomponents.com/</a></li>
 <li><a href="https://hgrinc.com/surplus/electronics/">https://hgrinc.com/surplus/electronics/</a></li>
@@ -65,6 +66,9 @@ Electronic kits. The criteria is the site must contain solder type kits. These a
 <li><a href="https://vakits.com/">https://vakits.com/</a></li>
 <li><a href="https://store.qkits.com/">https://store.qkits.com/</a></li>
 <li><a href="https://electronics-diy.com/store.php?sel=kits">https://electronics-diy.com/store.php?sel=kits</a></li>
+<li><a href="https://www.elexp.com/categories/kits/solar-kits.html">https://www.elexp.com/categories/kits/solar-kits.html</a></li>
+<li><a href="https://www.altex.com/Tech-Supplies/Electronic-Parts">https://www.altex.com/Tech-Supplies/Electronic-Parts</a></li>
+<li><a href="https://vakits.com/">https://vakits.com/</a></li>
 <li><a href="https://www.goldmine-elec-products.com/chaney-electronics/">https://www.goldmine-elec-products.com/chaney-electronics/</a></li>
 <li><a href="https://www.ecs.soton.ac.uk/outreach/kits">https://www.ecs.soton.ac.uk/outreach/kits</a></li>
 <li><a href="https://www.canakit.com/electronic-kits">https://www.canakit.com/electronic-kits</a></li>
@@ -122,7 +126,9 @@ Electronic kits. The criteria is the site must contain solder type kits. These a
 
 <br><p>
 <ul>
-kits/components/diy<br>
+Miscellaneous / components / diy / tools<br>
+Basically this is an alternative source of compenents. Stores have more of a neighborhood electronics store feel than a huge corporate chain vibe.<br>
+These places can often have hard to find and unique parts as well. Some of these places are duplicated from the lists above.<br>
 ------------------<br><p>
 <li><a href="https://www.debcoelectronics.com/">https://www.debcoelectronics.com/</a></li>
 <li><a href="https://www.taydaelectronics.com/">https://www.taydaelectronics.com/</a></li>
