@@ -1,13 +1,23 @@
-This is a list of electronic surplus stores which sell items online.
-To fit the criteria, the store must sell some form of surplus electronics such
-as components or devices. There are a few radio places tossed in here.
+This is a list of electronic surplus stores and soldering kit stores which sell items online.
+To fit the criteria the store must sell some form of surplus electronics such
+as components or devices or soldering kits.
+One focus is also to draw attention to small electronic businesses which are disappearing rapidly.
+Many of these places offer competitive pricing and we recommend seeing what they have to offer.
 Ideally this list will end up categorized by components/devices/computer/radio and so on.
-I would like to add lists of traditional soldering kit makers/sellers as there are still
-quite a few in existence.
+This is a work in progress and what you see right now is just the basic foundation.
+The list mostly lacks organization whatsoever and is in no particular order.
 
-Leave comments in 'issues' or make pull requests to add sites.
+You may use this list and these files for anything including commercial purposes. We do ask that you link back to this repository.
+The reason for linking is so that others can contribute and help it grow which helps everyone.
+Please use the URL https://github.com/av1d/electronics_list
+
+Please leave comments, post in 'issues' or make pull requests to add sites / make updates.
+To do: add brief descriptions of site contents. Do further organization.
 
 Last update: November 21, 2021
+
+
+
 
 
 electronics surplus (components, devices, radios, etc.)
@@ -26,6 +36,7 @@ https://anatekinstruments.com/
 https://www.electronicsurplus.com/
 http://www.excesssolutions.com/
 http://www.danssmallpartsandkits.net/
+https://vetco.net/
 https://www.ecrater.com/c/34425/electronic-components/
 https://www.westfloridacomponents.com/
 https://hgrinc.com/surplus/electronics/
@@ -59,6 +70,9 @@ https://www.rainbowkits.com/shop
 https://vakits.com/
 https://store.qkits.com/
 https://electronics-diy.com/store.php?sel=kits
+https://www.elexp.com/categories/kits/solar-kits.html
+https://www.altex.com/Tech-Supplies/Electronic-Parts
+https://vakits.com/
 https://www.goldmine-elec-products.com/chaney-electronics/
 https://www.ecs.soton.ac.uk/outreach/kits
 https://www.canakit.com/electronic-kits
@@ -114,8 +128,10 @@ https://www.sciplus.com/kits-models-c/electronic-kits-s
 https://www.radioshack.com/collections/electronics-kits-projects
 
 
-kits / components / diy
------------------------
+Miscellaneous / components / diy / tools
+Basically this is an alternative source of compenents. Stores have more of a neighborhood electronics store feel than a huge corporate chain vibe.
+These places can often have hard to find and unique parts as well. Some of these places are duplicated from the lists above.
+------------------
 https://www.debcoelectronics.com/
 https://www.taydaelectronics.com/
 https://www.jameco.com/
@@ -130,4 +146,3 @@ https://www.affiliatedelectronics.com/
 https://www.altex.com/Tech-Supplies/Electronic-Parts
 https://ace4parts.com/
 https://vetco.net/
-
