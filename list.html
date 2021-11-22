@@ -1,6 +1,6 @@
 This is a list of electronic surplus stores and soldering kit stores which sell items online.<br>
-To fit the criteria the store must sell some form of surplus electronics such<br>
-as components or devices or soldering kits.<br>
+To fit the criteria the store must sell some form of electronics such<br>
+as surplus, components, devices or soldering kits.<br>
 One focus is also to draw attention to small electronic businesses which are disappearing rapidly.<br>
 Many of these places offer competitive pricing and we recommend seeing what they have to offer.<br>
 Ideally this list will end up categorized by components/devices/computer/radio and so on.<br>
