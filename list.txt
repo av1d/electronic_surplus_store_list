@@ -7,7 +7,7 @@ quite a few in existence.
 
 Leave comments in 'issues' or make pull requests to add sites.
 
-Last update: November 13, 2021
+Last update: November 21, 2021
 
 
 electronics surplus (components, devices, radios, etc.)
@@ -48,6 +48,8 @@ https://www.marine-surplus.com/product-category/electrical/
 https://www.apexjr.com/
 https://surplusradios.com/collections/all
 http://www.industrialalchemy.org/store.php
+https://www.scientificsonline.com/shop/electric-kits?Page=1
+
 
 Electronic kits. The criteria is the site must contain solder type kits. These are the educational/hobby type kits which teach soldering in school, though some of them are more advanced.
 ------------------
