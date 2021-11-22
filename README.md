@@ -1,11 +1,19 @@
-This is a list of electronic surplus stores which sell items online.<br>
-To fit the criteria, the store must sell some form of surplus electronics such<br>
-as components or devices. There are some radio and vacuum tube places tossed in here.<br>
+This is a list of electronic surplus stores and soldering kit stores which sell items online.<br>
+To fit the criteria the store must sell some form of surplus electronics such<br>
+as components or devices or soldering kits.<br>
+One focus is also to draw attention to small electronic businesses which are disappearing rapidly.<br>
+Many of these places offer competitive pricing and we recommend seeing what they have to offer.<br>
 Ideally this list will end up categorized by components/devices/computer/radio and so on.<br>
 This is a work in progress and what you see right now is just the basic foundation.<br>
-The list mostly lacks organization whatsoever.<br>
+The list mostly lacks organization whatsoever and is in no particular order.<br><p>
 
-Leave comments in 'issues' or make pull requests to add sites.<br><p>
+
+You may use this list and these files for anything including commercial purposes. We do ask that you link back to this repository.<br>
+The reason for linking is so that others can contribute and help it grow which helps everyone.<br>
+Please use the URL https://github.com/av1d/electronics_list<br>
+
+Please leave comments, post in 'issues' or make pull requests to add sites / make updates.<br>
+To do: add brief descriptions of site contents. Do further organization.<br>
 
 Last update: November 21, 2021<br><p><br><p><br><p>
 
