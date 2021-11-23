@@ -22,6 +22,7 @@ Last update: November 23, 2021<br><p><br><p><br><p>
 <ul>
 electronics surplus (components, devices, radios, etc.)<br>
 -------------------------------------------------------<br><p>
+<li><a href="https://www.heinzstampfl.ch/en/products/">https://www.heinzstampfl.ch/en/products/</a></li>
 <li><a href="https://mfjenterprises.com/collections/kit">https://mfjenterprises.com/collections/kit</a></li>
 <li><a href="https://www.surplus-electronics-sales.com/">https://www.surplus-electronics-sales.com/</a></li>
 <li><a href="https://www.sciplus.com/Communications-Electronics-c/Electronic-Components-s">https://www.sciplus.com/Communications-Electronics-c/Electronic-Components-s</a></li>
