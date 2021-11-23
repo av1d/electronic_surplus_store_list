@@ -14,7 +14,7 @@ Please use the URL https://github.com/av1d/electronics_list
 Please leave comments, post in 'issues' or make pull requests to add sites / make updates.
 To do: add brief descriptions of site contents. Do further organization.
 
-Last update: November 21, 2021
+Last update: November 23, 2021
 
 
 
@@ -22,6 +22,7 @@ Last update: November 21, 2021
 
 electronics surplus (components, devices, radios, etc.)
 -------------------------------------------------------
+https://mfjenterprises.com/collections/kit
 https://www.surplus-electronics-sales.com/
 https://www.sciplus.com/Communications-Electronics-c/Electronic-Components-s
 https://www.allelectronics.com/
