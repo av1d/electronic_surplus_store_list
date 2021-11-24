@@ -18,7 +18,11 @@ Please use the URL https://github.com/av1d/electronics_list<br><p>
 Please leave comments, post in 'issues' or make pull requests to add sites / make updates.<br>
 To do: Remove duplicated. Add brief descriptions of site contents. Do further organization. Find more computer kits and kits of other categories not covered.<br><p>
 
-Last update: November 24, 2021<br><p><br><p><br><p>
+Last update: November 24, 2021<br><p>
+
+Other valuable directory resources:<br><p>
+<li><a href="https://www.retrobrewcomputers.org/doku.php?id=boardinventory">[RetroBrew Computers Board Inventory] Large directory of retro/homebrew DIY computer boards</a></li><br>
+<li><a href="http://fofio.blogspot.com/2015/07/radio-kit-guide.html">W2NDG's RadioKitGuide.com - radio kit supplier directory</a></li><br><p><br><p>
 
 
 
@@ -164,6 +168,7 @@ Computer kits. The criteria is the site must contain kits which aren't pre-assem
 <ul>
 Ham and other radio kits. The criteria is the site must contain kits which aren't pre-assembled.<br>
 ------------------<br><p>
+<li><a href="http://fofio.blogspot.com/2015/07/radio-kit-guide.html">W2NDG's RadioKitGuide.com - radio kit supplier directory</a></li>
 <li><a href="https://steadynet.com/emtech/">https://steadynet.com/emtech/</a></li>
 <li><a href="http://www.midwayelectronics.us/qrp/index.html">http://www.midwayelectronics.us/qrp/index.html</a></li>
 <li><a href="http://fivedash.com/">http://fivedash.com/</a></li>
