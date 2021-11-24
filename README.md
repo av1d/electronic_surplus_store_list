@@ -18,7 +18,7 @@ Please use the URL https://github.com/av1d/electronics_list<br><p>
 Please leave comments, post in 'issues' or make pull requests to add sites / make updates.<br>
 To do: Remove duplicated. Add brief descriptions of site contents. Do further organization. Find more computer kits and kits of other categories not covered.<br><p>
 
-Last update: November 23, 2021<br><p><br><p><br><p>
+Last update: November 24, 2021<br><p><br><p><br><p>
 
 
 
