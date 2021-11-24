@@ -21,7 +21,7 @@ To do: Remove duplicated. Add brief descriptions of site contents. Do further or
 Last update: November 24, 2021<br><p>
 
 Other valuable directory resources:<br><p>
-<li><a href="https://www.retrobrewcomputers.org/doku.php?id=boardinventory">[RetroBrew Computers Board Inventory] Large directory of retro/homebrew DIY computer boards</a></li><br>
+<li><a href="https://www.retrobrewcomputers.org/doku.php?id=boardinventory">[RetroBrew Computers Board Inventory] Large directory of retro/homebrew DIY computer boards</a></li>
 <li><a href="http://fofio.blogspot.com/2015/07/radio-kit-guide.html">W2NDG's RadioKitGuide.com - radio kit supplier directory</a></li><br><p><br><p>
 
 
