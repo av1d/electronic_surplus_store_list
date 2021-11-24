@@ -1,18 +1,22 @@
 This is a list of electronic surplus stores and soldering kit stores which sell items online.
-To fit the criteria the store must sell some form of electronics such
-as surplus, components, devices or soldering kits.
 One focus is also to draw attention to small electronic businesses which are disappearing rapidly.
 Many of these places offer competitive pricing and we recommend seeing what they have to offer.
+
+To fit the criteria the store must sell some form of electronics such as surplus, components, devices or soldering kits of any category.
+Other kits like breadboard kits can be included if they're not pre-assembled.
+Due to the massive abundance of QRP kits and the ability to buy them on any street corner I have omitted sites which only sell them.
+That said, they are not forbidden from the list if someone else wants to do the work.
+
 Ideally this list will end up categorized by components/devices/computer/radio and so on.
 This is a work in progress and what you see right now is just the basic foundation.
-The list mostly lacks organization whatsoever and is in no particular order.
+The list mostly lacks organization whatsoever and the sites are listed no particular order or preference.
 
 You may use this list and these files for anything including commercial purposes. We do ask that you link back to this repository.
 The reason for linking is so that others can contribute and help it grow which helps everyone.
 Please use the URL https://github.com/av1d/electronics_list
 
 Please leave comments, post in 'issues' or make pull requests to add sites / make updates.
-To do: add brief descriptions of site contents. Do further organization.
+To do: Remove duplicated. Add brief descriptions of site contents. Do further organization. Find more computer kits and kits of other categories not covered.
 
 Last update: November 23, 2021
 
@@ -65,8 +69,21 @@ http://www.industrialalchemy.org/store.php
 https://www.scientificsonline.com/shop/electric-kits?Page=1
 
 
-Electronic kits. The criteria is the site must contain solder type kits. These are the educational/hobby type kits which teach soldering in school, though some of them are more advanced.
+Electronic kits. The criteria is the site must contain solder type kits or other kits which aren't pre-assembled (i.e. breadboard kits). These are the educational/hobby type kits which teach soldering in school, though some of them are more advanced.
 ------------------
+https://rhelectronics.net/store/
+https://www.sotabeams.co.uk/search.php?page=1§ion=product&search_query=kit
+https://www.dxengineering.com/search/part-type/electronics-and-project-kits?tw=Kits&sw=Electronics%20and%20Project%20Kits
+https://www.electronickits.com/
+https://rhelectronics.net/store/diy-electronic-kits.html
+http://www.farcircuits.net/
+https://store.qkits.com/
+https://kitsusa.net/phpstore/index.php
+http://www.morseexpress.com/kits.htm
+https://www.rainbowkits.com/shop
+http://www.allspectrum.com/
+https://kc9on.com/
+https://www.arrl.org/shop/ARRL-Introduction-to-Radio-Receiver-Kit-2528/
 http://www.allspectrum.com/
 https://www.bakatronics.com/shop/listcats.aspx
 https://www.rainbowkits.com/shop
@@ -131,10 +148,66 @@ https://www.sciplus.com/kits-models-c/electronic-kits-s
 https://www.radioshack.com/collections/electronics-kits-projects
 
 
-Miscellaneous / components / diy / tools
+Computer kits. The criteria is the site must contain kits which aren't pre-assembled.
+------------------
+https://www.corshamtech.com/product/kim-clone/
+https://eater.net/6502
+
+
+Ham and other radio kits. The criteria is the site must contain kits which aren't pre-assembled.
+------------------
+https://steadynet.com/emtech/
+http://www.midwayelectronics.us/qrp/index.html
+http://fivedash.com/
+https://www.kitsandparts.com/
+http://www.pan-tex.net/usr/r/receivers/ra01000.htm
+https://kc9on.com/
+https://breadboardradio.com/index.html
+http://crkits.com/
+http://www.dzkit.com/
+https://elecraft.com/collections/full-kits-1
+http://www.foxdelta.com/products/
+https://hamcrafters2.com/
+https://www.hobbypcb.com/
+https://www.qsl.net/k5bcq/Kits/Kits.html
+https://www.kanga-products.co.uk/ourshop/
+https://www.pastimeprojects.com/transmitterkits.html
+https://www.midnightscience.com/kits.html
+http://www.farcircuits.net/
+http://www.qrpkits.com/
+https://www.hobbypcb.com/
+https://www.minikits.com.au/
+https://mfjenterprises.com/collections/vectronics/company_vectronics+type_kit
+https://eshop.3dsimo.com/products/nixie-radio-kit
+http://nationalrf.com/75_NS-3.htm
+https://qrpguys.com/
+https://www.hfkits.com/
+https://youkits.com/collections/all
+http://www.qrpme.com/
+https://www.k1elsystems.com/
+https://www.radio-kits.co.uk/
+https://quasarelectronics.co.uk/
+http://www.xtalman.com/
+https://unitednuclear.com/index.php?main_page=index&cPath=28_98
+
+
+Miscellaneous / components / diy / tools / parts
 Basically this is an alternative source of compenents. Stores have more of a neighborhood electronics store feel than a huge corporate chain vibe.
 These places can often have hard to find and unique parts as well. Some of these places are duplicated from the lists above.
 ------------------
+https://antiqueradiosandparts.com/
+https://www.oldradioparts.net/
+https://www.normsrotorservice.com/
+http://www.xtalman.com/
+https://amateurradiokits.in/products/
+http://www.qrpme.com/
+http://www.allspectrum.com/
+https://www.rpelectronics.com/
+http://www.spectrumcomms.co.uk/Components.htm
+https://www.kitsandparts.com/
+https://www.circuittest.com/electronic-components-parts
+https://www.communication-concepts.com/
+https://palomar-engineers.com/ferrite-application-experts-2/
 https://www.debcoelectronics.com/
 https://www.taydaelectronics.com/
 https://www.jameco.com/
