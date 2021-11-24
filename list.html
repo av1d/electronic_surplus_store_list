@@ -157,6 +157,7 @@ Computer kits. The criteria is the site must contain kits which aren't pre-assem
 ------------------<br><p>
 <li><a href="https://www.corshamtech.com/product/kim-clone/">https://www.corshamtech.com/product/kim-clone/</a></li>
 <li><a href="https://eater.net/6502">https://eater.net/6502</a></li>
+<li><a href="https://www.retrobrewcomputers.org/doku.php?id=boardinventory">[RetroBrew Computers Board Inventory] Large directory of retro/homebrew DIY computer boards</a></li>
 </ul>
 
 <br><p>
