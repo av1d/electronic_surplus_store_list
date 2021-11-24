@@ -3,6 +3,7 @@ One focus is also to draw attention to small electronic businesses which are dis
 Many of these places offer competitive pricing and we recommend seeing what they have to offer.<br><p>
 
 To fit the criteria the store must sell some form of electronics such as surplus, components, devices or soldering kits of any category.<br>
+Other kits like breadboard kits can be included if they're not pre-assembled.<br>
 Due to the massive abundance of QRP kits and the ability to buy them on any street corner I have omitted sites which only sell them.<br>
 That said, they are not forbidden from the list if someone else wants to do the work.<br><p>
 
@@ -15,7 +16,7 @@ The reason for linking is so that others can contribute and help it grow which h
 Please use the URL https://github.com/av1d/electronics_list<br><p>
 
 Please leave comments, post in 'issues' or make pull requests to add sites / make updates.<br>
-To do: add brief descriptions of site contents. Do further organization. Find more computer kits.<br><p>
+To do: Remove duplicated. Add brief descriptions of site contents. Do further organization. Find more computer kits and kits of other categories not covered.<br><p>
 
 Last update: November 23, 2021<br><p><br><p><br><p>
 
