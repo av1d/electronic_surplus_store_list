@@ -152,6 +152,7 @@ Computer kits. The criteria is the site must contain kits which aren't pre-assem
 ------------------
 https://www.corshamtech.com/product/kim-clone/
 https://eater.net/6502
+[RetroBrew Computers Board Inventory] Large directory of retro/homebrew DIY computer boards
 
 
 Ham and other radio kits. The criteria is the site must contain kits which aren't pre-assembled.
